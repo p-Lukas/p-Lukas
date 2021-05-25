@@ -1,7 +1,7 @@
 ### Hi there 
 
-I am currently finishing up a P2P project and will publish it here. 
-Whenever I find the time I will continue showcasing new programs in this space. 
+Unfortunately I do not have much to showcase at the moment, but when I have, it will be published here.  
+In the meantime I’ll finish debugging my P2P-project. 
 
 <!--
 **p-Lukas/p-Lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
