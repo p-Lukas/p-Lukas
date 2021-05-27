@@ -1,7 +1,10 @@
 ### Hi there 
 
-Unfortunately I do not have much to showcase at the moment, but when I have, it will be published here.  
-In the meantime I’ll finish debugging my P2P-project. 
+
+Welcome to my growing repository.
+To kick it off, there is a cool little P2P Messenger app called pppMess.  
+Future work will follow soon (:
+
 
 <!--
 **p-Lukas/p-Lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
