@@ -1,9 +1,9 @@
 ### Hi there 
 
 
-Welcome to my growing repository.
-To kick it off, there is a cool little P2P Messenger app called pppMess.  
-Future work will follow soon (:
+Welcome to my growing repository.     
+To kick it off, there is a cool little P2P Messenger app called pppMess.     
+Future work will follow soon :blush:    
 
 
 <!--
